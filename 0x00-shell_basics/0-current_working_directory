@@ -1,1 +1,2 @@
-e #!/bin/bash\nls -pwd
+#!/bin/bash
+ls -pwd
