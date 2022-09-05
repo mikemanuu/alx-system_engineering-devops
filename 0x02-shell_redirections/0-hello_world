@@ -1,0 +1,2 @@
+#!/bin/bash\nls cat -e
+Hello, World
